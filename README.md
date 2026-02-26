@@ -1,1 +1,1 @@
-# scratch-pedagogy-projects
+“Projects from Daniel Ciocîrlan's Udemy Scratch Course.”
