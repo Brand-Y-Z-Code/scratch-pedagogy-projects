@@ -62,12 +62,10 @@ To view or edit these projects, follow these steps:
 ```text
 .
 ├── projects/
-│   └── pong/           # Physics & Events
+│   └── pong/
 │       ├── pongFinished.sb3  # Scratch Project File
 │       └── images/      # Logic & Gameplay captures
 └── README.md
-
----
 
 ---
 
