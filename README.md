@@ -66,6 +66,7 @@ To view or edit these projects, follow these steps:
 │       ├── pongFinished.sb3  # Scratch Project File
 │       └── images/      # Logic & Gameplay captures
 └── README.md
+```
 
 ---
 
